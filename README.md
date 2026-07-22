@@ -2176,3 +2176,4 @@ Data is stored in tables named using the convention [currency_symbol]_[timeframe
  
  
  
+ 
